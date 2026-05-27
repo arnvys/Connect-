@@ -60,18 +60,19 @@ flutter run
   
   Splash Screen-
 
+  ("screenshots/Splash_page.png")
+
+  Login Screen-
   
+  ("screenshots/Login_Page.png")
 
-("screenshots/Splash_page.png")
+  Signup Screen-
 
- Login Screen-
- screenshots/Screenshot 2026-03-30 162110.png
+  ("screenshots/Signup_page.png")
+  Home Feed-
 
+  ("screenshots/Home_page.png")
 
-  Home Feed
+   Profile Screen-
 
-(Add screenshot here)
-
- Profile Screen
-
-(Add screenshot here)
+  ("screenshots/Profile_page.png")
