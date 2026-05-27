@@ -57,9 +57,12 @@ flutter run
 
 
  Project Screenshots 
-  Splash Screen
+  
+  Splash Screen-
 
-(Add screenshot here)
+  
+
+("screenshots/Splash_page.png")
 
  Login Screen-
  screenshots/Screenshot 2026-03-30 162110.png
